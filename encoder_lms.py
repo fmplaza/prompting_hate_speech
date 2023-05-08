@@ -1,8 +1,5 @@
 import pandas as pd
-#from typing import List
 import torch
-#from datasets import Dataset
-#from tqdm import tqdm
 
 from openprompt.plms import load_plm
 from openprompt.prompts import ManualTemplate
