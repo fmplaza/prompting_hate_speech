@@ -63,7 +63,8 @@ To use Instruction fine-tuned LMs, you can import the `prompting` module from `i
 
 Note: The examples (hate) provided are sourced from a hate speech corpus and are not created by the authors of this repository.
 
-#### Citation
+Citation
+----------
 
     @inproceedings{plaza-del-arco-etal-2023-respectful,
         title = "Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech",
