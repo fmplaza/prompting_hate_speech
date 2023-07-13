@@ -2,6 +2,7 @@ Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hat
 -------
 
 This repository contains the code of the paper **Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech**.
+Paper: https://aclanthology.org/2023.woah-1.6/
 
 License
 -------
@@ -61,3 +62,18 @@ To use Instruction fine-tuned LMs, you can import the `prompting` module from `i
     >> ["hate", "non-hate"]
 
 Note: The examples (hate) provided are sourced from a hate speech corpus and are not created by the authors of this repository.
+
+#### Citation
+
+    @inproceedings{plaza-del-arco-etal-2023-respectful,
+        title = "Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech",
+        author = "Plaza-del-Arco, Flor Miriam  and Nozza, Debora  and
+          Hovy, Dirk",
+        booktitle = "The 7th Workshop on Online Abuse and Harms (WOAH)",
+        month = jul,
+        year = "2023",
+        address = "Toronto, Canada",
+        publisher = "Association for Computational Linguistics",
+        url = "https://aclanthology.org/2023.woah-1.6",
+        pages = "60--68",
+    }
